@@ -1,0 +1,26 @@
+{
+  "name": "tdd-course-unifesp-assignment1",
+  "version": "1.0.0",
+  "main": "src/atm.ts",
+  "repository": "git@github.com:orlando-oli/tdd-course-unifesp-assignment1.git",
+  "author": "Orlando Oliveira <oliorlando6@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "ts-node $npm_package_main",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "@types/node": "^16.3.1",
+    "@typescript-eslint/eslint-plugin": "^4.28.2",
+    "@typescript-eslint/parser": "^4.28.2",
+    "eslint": "^7.30.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2",
+    "ts-jest": "^27.0.3",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5"
+  }
+}
